@@ -6,3 +6,4 @@ first example, running simple script
 <br>
 2-  <a href="https://github.com/lbvp10/learning-javascript/tree/02-vars">Variables, Prompt  and comments</a>
 
+a
