@@ -1,1 +1,2 @@
-# learning-javascript
+# Learning-javascript
+first example, running simple script
