@@ -6,3 +6,5 @@ first example, running simple script
 2-  <a href="https://github.com/lbvp10/learning-javascript/tree/02-vars">Variables, Prompt  and comments</a>
 <br>
 3-  <a href="https://github.com/lbvp10/learning-javascript/tree/03-arrays">Arrays</a>
+<br>
+4-  <a href="https://github.com/lbvp10/learning-javascript/tree/04-methods">Methods</a>
