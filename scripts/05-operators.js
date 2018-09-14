@@ -35,3 +35,4 @@ console.log("object1 = {'a': 'b'} == object2 = {'a': 'b'}: " + (object1 == objec
 console.log("1 !=   2: " + (1 != 2))
 console.log("1 <  2: " + (1 < 2))
 console.log("1 >  2: " + (1 > 2))
+console.log("Ternario (1>2 ? 'MAYOR ES 1 ': 'MAYOR ES 2') :  " + (1 > 2 ? 'MAYOR ES 1 ' : 'MAYOR ES 2'))
