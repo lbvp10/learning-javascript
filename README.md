@@ -9,4 +9,4 @@ first example, running simple script
 <br>
 4-  <a href="https://github.com/lbvp10/learning-javascript/tree/04-methods">Methods</a>
 <br>
-4-  <a href="https://github.com/lbvp10/learning-javascript/tree/05-operators">Operators</a>
+5-  <a href="https://github.com/lbvp10/learning-javascript/tree/05-operators">Operators</a>
