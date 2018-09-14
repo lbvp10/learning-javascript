@@ -33,5 +33,11 @@ console.log("Eliminando el numero 5 :" + arrayNumeros)
 
 //copiando
 console.log("La copia de mi array es :" + [...arrayNumeros])
-
 document.writeln("<h3> Inspeccionar la consola</h3>")
+
+//separando elemento de un array por "-"
+console.log("separando elemento de un array por \"-\": " + [2, 5, 6, 8].join("-"))
+
+//uniendo dos array [1,2,3] y [9,8,9]
+
+console.log("Uniendo dos arrays  [1,2,3] y [9,8,9]: " + [1, 2, 3].concat([9, 8, 9]))
