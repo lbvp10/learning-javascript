@@ -4,17 +4,17 @@
 
  **/
 
-// variable de alcance local
-var nombre = prompt("Escribe tu nombre", "")
+// variable
+var name = prompt("Escribe tu nombre", "")
 
 
 //concatenar string
-console.log("Bienvenid@: ".concat(nombre))
+console.log("Bienvenid@: ".concat(name))
 
 //Variable de alcance global
-NOMBRE = nombre
+NAME = name
 
-console.log("Bienvenid@: ".concat(NOMBRE))
+console.log("Bienvenid@: ".concat(NAME))
 
 //constante numericas
 const numero1 = 1;
@@ -52,5 +52,3 @@ console.log("Nombre de la persona: " + miObjetoPerona.nombre)
 
 // NaN
 console.log("el nan es " + (1 / "a"));
-
-document.writeln("<h3> Inspeccionar la consola</h3>")
