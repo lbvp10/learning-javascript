@@ -4,7 +4,7 @@
 
  **/
 
-// variable de alcance local
+// variable
 var name = prompt("Escribe tu nombre", "")
 
 
