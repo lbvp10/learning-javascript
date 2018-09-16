@@ -11,4 +11,6 @@ first example, running simple script
 <br>
 5-  <a href="https://github.com/lbvp10/learning-javascript/tree/05-operators">Operators</a>
 <br>
-6-  <a href="https://github.com/lbvp10/learning-javascript/tree/06-cycles_and_conditionals">cycles and conditionals</a>
+6-  <a href="https://github.com/lbvp10/learning-javascript/tree/06-Cycles_and_conditionals">cycles and conditionals</a>
+<br>
+7-  <a href="https://github.com/lbvp10/learning-javascript/tree/06-clas">Class</a>
