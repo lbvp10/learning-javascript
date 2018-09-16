@@ -10,3 +10,5 @@ first example, running simple script
 4-  <a href="https://github.com/lbvp10/learning-javascript/tree/04-methods">Methods</a>
 <br>
 5-  <a href="https://github.com/lbvp10/learning-javascript/tree/05-operators">Operators</a>
+<br>
+6-  <a href="https://github.com/lbvp10/learning-javascript/tree/06-cycles_and_conditionals">cycles and conditionals</a>
