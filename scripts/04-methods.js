@@ -73,3 +73,14 @@ function outside(x) {
 
 console.log("outside function:" + outside(1))
 console.log("inside function:" + outside(1)(2))
+
+console.log("------------------------La variable arguments------------------------")
+
+function fnSum() {
+    for (var i = 0, result = 0, j = arguments.length; i < j; i++) {
+        result += arguments[i];
+    }
+    return result;
+}
+
+console.log(fnSum(1, 4, 6, 3, 5, 6, 3)); // 28
