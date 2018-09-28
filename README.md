@@ -16,4 +16,6 @@ first example, running simple script
 7-  <a href="https://github.com/lbvp10/learning-javascript/tree/06-clas">Class</a>
 <br>
 8-  <a href="https://github.com/lbvp10/learning-javascript/tree/08-dom">DOM</a>
+<br>
+9-  <a href="https://github.com/lbvp10/learning-javascript/tree/09-windows">Windows</a>
 
