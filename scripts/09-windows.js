@@ -12,5 +12,5 @@ document.writeln("<br>")
 document.writeln("Path: " +  window.location.pathname)
 
 function cargarNuevaPagina() {
-    window.location.assign("https://www.google.com")
+    window.location.assign("https://www.gmail.com")
 }
