@@ -18,4 +18,5 @@ first example, running simple script
 8-  <a href="https://github.com/lbvp10/learning-javascript/tree/08-dom">DOM</a>
 <br>
 9-  <a href="https://github.com/lbvp10/learning-javascript/tree/09-windows">Windows</a>
-
+<br>
+10-  <a href="https://github.com/lbvp10/learning-javascript/tree/10-ajax">Ajax</a>
