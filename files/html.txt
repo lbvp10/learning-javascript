@@ -1,3 +1,4 @@
 <p>
-    <h2>Este es el HTML de un fichero de texto</h2>
+    <h2 aling="center">Este es el HTML de un fichero de texto</h2>
+
 </p>
