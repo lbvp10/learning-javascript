@@ -23,4 +23,4 @@ first example, running simple script
 <br>
 11-  <a href="https://github.com/lbvp10/learning-javascript/tree/11-json">JSON</a>
 <br>
-11-  <a href="https://github.com/lbvp10/learning-javascript/tree/12-promises">Promises</a>
+12-  <a href="https://github.com/lbvp10/learning-javascript/tree/12-promises">Promises</a>
